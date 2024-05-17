@@ -12,7 +12,7 @@ button {
 
 body {
   font-family: Inter, sans-serif;
-  height: 100svh;
+  height: 100vh;
   background-image: radial-gradient(ellipse, #385300, #212900);
 }
 
