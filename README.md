@@ -1,8 +1,7 @@
-# React + Vite
+# Fancy counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the first project in bytegrad's [Professional react & next.js course](https://bytegrad.com/courses/professional-react-nextjs).
 
-Currently, two official plugins are available:
+I used this project as a demo to learn about [PWAs](https://web.dev/learn/pwa/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can see the working project in action in [here](https://hessamcheraghi.github.io/fancy-counter/).

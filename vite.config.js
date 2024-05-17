@@ -25,7 +25,7 @@ export default defineConfig({
         theme_color: "#bef227",
         background_color: "#212900",
         description:
-          "A fancy counter, the first project in bytgrad next.js and react course.",
+          "A fancy counter, the first project in bytegrad's Professional react & next.js course.",
         icons: [
           {
             src: "vite-16x16.png",
