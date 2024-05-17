@@ -20,7 +20,7 @@ export default defineConfig({
         lang: "en",
         name: "Fancy Counter",
         short_name: "counter",
-        display: "minimal-ui",
+        display: "standalone",
         orientation: "portrait",
         theme_color: "#bef227",
         background_color: "#212900",
